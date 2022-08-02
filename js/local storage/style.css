@@ -1,0 +1,43 @@
+html{
+
+
+    background-color: plum;
+}
+
+h1{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif   ;
+}
+
+#mid{
+ font-family: 'Times New Roman', Times, serif;
+ text-align: center;
+ padding: 10px;
+
+
+ 
+}
+table, td{
+    border: 1px solid purple;
+    border-radius: 10px;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    color: white;
+    margin: auto;
+    
+    
+ }
+
+ #container{
+     margin: auto;
+     align-items: center;
+     padding: 60px;
+ }
+button{
+    border-radius: 50px;
+    
+}
+input{
+    border-radius: 10px;
+}
